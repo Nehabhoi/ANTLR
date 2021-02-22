@@ -1,0 +1,8 @@
+LET A = 4
+LET B = 5
+LET C = A * B + 7
+PRINT A 
+PRINT " * "
+PRINT B
+PRINT " + 7 = "
+PRINTLN C
